@@ -1,6 +1,6 @@
 # Hello, this is n0ldev
 
-<img src="../logo.png" width="720">
+<img src="https://github.com/n0ldev/.github/blob/main/logo.png" width="720">
 
 Noldev is tech-company focused on [climate tech](https://blog.nol.dev/how-technology-can-help-with-climate-change/).
 
